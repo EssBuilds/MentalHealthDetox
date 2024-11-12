@@ -210,3 +210,11 @@ steps__content-width {
 .steps--background {
     background-color: var(--bs-light);
 }
+
+/* Footer */
+.footer {
+    background-color: var(--primary-color);
+    color: var(--bs-light);
+    padding: 2rem 0;
+    text-align: center;
+}
