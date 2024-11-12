@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #02313a;
-    --primary-color-highlight: #234454;
-    --bs-body-bg: #FBF0F6;
+    --primary-color: #024d5c;
+    --primary-color-highlight: #235254;
+    --bs-body-bg: #cae4da;
     --bs-body-font-family: 'Montserrat', sans-serif;
 }
 
@@ -205,4 +205,8 @@ steps__content-width {
    
     max-width: 540px;
     margin: 0 auto;
+}
+
+.steps--background {
+    background-color: var(--bs-light);
 }
