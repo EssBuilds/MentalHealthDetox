@@ -1,14 +1,21 @@
 :root {
-    --primary-color: #0a1180;
-    --primary-color-highlight: #233D54;
+    --primary-color: #02313a;
+    --primary-color-highlight: #234454;
     --bs-body-bg: #FBF0F6;
     --bs-body-font-family: 'Montserrat', sans-serif;
 }
 
+a {
+    color: var(--primary-color);
+}           
+
+a:hover {
+    color: rgb(55, 19, 56)
+}  
  /* Main Header */
 .header {
-    background-color: rgb#3a224e;
-    color: rgb(250, 248, 248);
+    background-color: rgb#22374e;
+    color: rgb(21, 67, 78);
     padding: 10px;
     text-align: center;
     z-index: 2;
@@ -16,19 +23,51 @@
 
  /* Navigation Bar */
 #navbar {
-    background-color: rgb(244, 160, 247);
+    background-color: rgb(95, 189, 233);
     display: flex;
     justify-content: space-between;
     padding: 10px;
     position: fixed;
     width: 100%;
     z-index: 1;
-    color: #3b1553;
+    color: #154c53;
 }
    
 .dropdown-nav__closeNavBtn {
-    top: 20px;
-    right: 16px;
-    position: absolute;
-    background-color: rgb(218, 146, 252);
+    
+    background-color: rgb(146, 183, 252);
 }
+
+/* Hero Section */
+.hero {
+    background-color: var(--primary-color);
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+}
+
+.hero__video {
+    width: auto;
+    height: auto;
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+hero__overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.hero
