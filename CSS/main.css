@@ -1,6 +1,34 @@
 :root {
-    --primary-color: #0a1180
-    --primary-color-highlight: #233D54
+    --primary-color: #0a1180;
+    --primary-color-highlight: #233D54;
     --bs-body-bg: #FBF0F6;
     --bs-body-font-family: 'Montserrat', sans-serif;
+}
+
+ /* Main Header */
+.header {
+    background-color: rgb#3a224e;
+    color: rgb(250, 248, 248);
+    padding: 10px;
+    text-align: center;
+    z-index: 2;
+}
+
+ /* Navigation Bar */
+#navbar {
+    background-color: rgb(244, 160, 247);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    color: #3b1553;
+}
+   
+.dropdown-nav__closeNavBtn {
+    top: 20px;
+    right: 16px;
+    position: absolute;
+    background-color: rgb(218, 146, 252);
 }
