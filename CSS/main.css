@@ -218,3 +218,9 @@ steps__content-width {
     padding: 2rem 0;
     text-align: center;
 }
+
+.footer__social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
