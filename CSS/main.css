@@ -68,12 +68,27 @@ a:hover {
     display: flex;
     justify-content: space-between;
     padding: 10px;
-   
     width: 100%;
     z-index: 1;
     color: #154c53;
 }
-   
+
+.navbar-image {
+    width: 50px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the area */
+    border-radius: 50%; /* Optional: make the image circular */
+    border: 2px solid var(--primary-color); /* Optional: add a border */
+}
+
+
+.img-fluid{
+    width: 50px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the area */
+    border-radius: 50%; /* Optional: make the image circular */
+    border: 2px solid var(--primary-color); /* Optional: add a border */
+}
 .dropdown-nav__closeNavBtn {
     
     background-color: rgb(146, 252, 234);
