@@ -1,8 +1,23 @@
-# Wellness Detox Retreat in the Lake District
+# SERENITY LAKES.. Wellness Detox Retreat in the Lake District
+![website 1](https://github.com/user-attachments/assets/6685dd6f-8407-4219-bf2e-5ae7f33c3172)
 
-Welcome to our **Wellness Detox Retreat**, nestled in the stunning Lake District. This immersive retreat is designed to help you unplug, recharge, and rejuvenate your body, mind, and spirit. Whether you are seeking a complete detox or simply need a peaceful break to reconnect with yourself, this retreat offers a safe and calming space to reset.
+Welcome to our **Wellness Detox Retreat**, nestled in the stunning Lake District. This immersive retreat is designed to help you unplug, recharge, and rejuvenate your body, mind, and spirit. Whether you are seeking a complete detox or simply need a peaceful break to reconnect with yourself, this retreat offers a safe and calming space
+ to reset.
+
+ ## Site Responsiveness
+
+![responsiveness2](https://github.com/user-attachments/assets/45c66ef1-3c00-4a9d-828c-37378b708a8e)
+
+## About the Retreat
+
+Our **Wellness Detox Retreat** offers a comprehensive program that focuses on holistic well-being through mindfulness, movement, nutrition, and nature. Set in the tranquil surroundings of the Lake District, you’ll be surrounded by breathtaking landscapes, the perfect environment for reflection and rejuvenation. We believe in empowering you with the tools to cultivate balance and health, both during your stay and beyond.
 
 
+## Why the Lake District?
+
+The **Lake District** is the perfect backdrop for your wellness retreat. Known for its pristine lakes, majestic mountains, and expansive forests, it offers a serene and peaceful environment, ideal for disconnecting from the hustle and bustle of everyday life. The calm atmosphere will help you relax, reflect, and rejuvenate, providing the perfect escape for a detoxification experience.
+
+---
 ## Website Wireframe 
 
 
@@ -11,13 +26,9 @@ Welcome to our **Wellness Detox Retreat**, nestled in the stunning Lake District
 ## Iphone Wireframe 
 ![iphone wireframe](https://github.com/user-attachments/assets/10be71b9-bfff-4050-a640-7e27af003646)
 
-## About the Retreat
-
-Our **Wellness Detox Retreat** offers a comprehensive program that focuses on holistic well-being through mindfulness, movement, nutrition, and nature. Set in the tranquil surroundings of the Lake District, you’ll be surrounded by breathtaking landscapes, the perfect environment for reflection and rejuvenation. We believe in empowering you with the tools to cultivate balance and health, both during your stay and beyond.
-
 ---
 
-## Retreat Experience
+## User Experience
 
 ### Mindful Detoxification
 - **Nutrition & Cleanse**: Enjoy plant-based, nourishing meals designed to detoxify the body, increase energy, and promote overall health. Our expert nutritionists will guide you through a rejuvenating eating plan.
@@ -49,12 +60,6 @@ Our **Wellness Detox Retreat** offers a comprehensive program that focuses on ho
 ## Booking Information
 
 Our Wellness Detox Retreat is available in both **weekend** and **week-long** packages. Group sizes are limited to ensure personal attention, and early booking is recommended. For more details on availability and pricing, please visit our [website](#) or contact us directly.
-
----
-
-## Why the Lake District?
-
-The **Lake District** is the perfect backdrop for your wellness retreat. Known for its pristine lakes, majestic mountains, and expansive forests, it offers a serene and peaceful environment, ideal for disconnecting from the hustle and bustle of everyday life. The calm atmosphere will help you relax, reflect, and rejuvenate, providing the perfect escape for a detoxification experience.
 
 ---
 
