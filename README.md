@@ -68,18 +68,17 @@ The **Lake District** is the perfect backdrop for your wellness retreat. Known f
 - **Nature Excursions**: Guided walks and activities to immerse you in the Lake District’s natural beauty.
 
 ---
-
-## Booking Information
-
-Our Wellness Detox Retreat is available in both **weekend** and **week-long** packages. Group sizes are limited to ensure personal attention, and early booking is recommended. For more details on availability and pricing, please visit our [website](#) or contact us directly.
-
----
-
-## Testimonials
+## User Stories
 
 > "I arrived feeling overwhelmed and left feeling completely restored. The Lake District is the perfect place to reset, and the wellness team took care of every detail. Highly recommend!" – **Emma R.**
 
 > "This retreat gave me the tools to manage my stress and develop healthier habits. The location, food, and activities were all amazing. A life-changing experience!" – **John D.**
+
+---
+
+## Booking Information
+
+Our Wellness Detox Retreat is available in both **weekend** and **week-long** packages. Group sizes are limited to ensure personal attention, and early booking is recommended. For more details on availability and pricing, please visit our [website](#) or contact us directly.
 
 ---
 
