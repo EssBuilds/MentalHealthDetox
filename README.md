@@ -2,7 +2,14 @@
 
 Welcome to our **Wellness Detox Retreat**, nestled in the stunning Lake District. This immersive retreat is designed to help you unplug, recharge, and rejuvenate your body, mind, and spirit. Whether you are seeking a complete detox or simply need a peaceful break to reconnect with yourself, this retreat offers a safe and calming space to reset.
 
----
+
+## Website Wireframe 
+
+
+---![wireframe](https://github.com/user-attachments/assets/662b05d9-eb7e-46c6-8001-6622ee221900)
+
+## Iphone Wireframe 
+![iphone wireframe](https://github.com/user-attachments/assets/10be71b9-bfff-4050-a640-7e27af003646)
 
 ## About the Retreat
 
