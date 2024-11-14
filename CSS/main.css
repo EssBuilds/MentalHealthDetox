@@ -321,7 +321,7 @@ textarea:focus-within {
 #First-Name, #Last-Name, #Email, #Message {
     width: 50%;
     padding: 10px;
-    margin: 10px 0;
+    margin: 50px 50px;
     border-radius: 20px;
     border: 1px solid #0b8088;
 }
