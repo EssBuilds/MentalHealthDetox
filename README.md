@@ -1,7 +1,7 @@
 # SERENITY LAKES.. Digital cleanse Retreat in the Lake District
 ![website 1](https://github.com/user-attachments/assets/6685dd6f-8407-4219-bf2e-5ae7f33c3172) 
 
-## Website  https://essbuilds.github.io/MentalHealthDetox/
+## Website  https://essbuilds.github.io/SerenityLakes/
 
 Welcome to our **Wellness Detox Retreat**, nestled in the stunning Lake District. This immersive retreat is designed to help you unplug, recharge, and rejuvenate your body, mind, and spirit. Whether you are seeking a complete detox or simply need a peaceful break to reconnect with yourself, this retreat offers a safe and calming space
  to reset.
