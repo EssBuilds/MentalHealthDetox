@@ -96,12 +96,7 @@ Our retreat is located in the heart of the Lake District, easily accessible by t
 
 ## Contact Us
 
-For more information about the **Wellness Detox Retreat**, including bookings, pricing, or inquiries, please reach out to us through the following channels:
-
-- **Email**: [contact@wellnessdetoxlake.co.uk](mailto:contact@wellnessdetoxlake.co.uk)
-- **Phone**: +44 1234 567890
-- **Website**: [www.wellnessdetoxlake.co.uk](http://www.wellnessdetoxlake.co.uk)
-
+For more information about the **Wellness Detox Retreat**, including bookings, pricing, or inquiries, please reach out to us through the our social media channels.
 ---
 
 ## What to Bring
