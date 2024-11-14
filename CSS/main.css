@@ -264,3 +264,73 @@ a:hover {
     margin: 0;
     text-align: center;
 }
+
+
+/* Form */
+
+input{
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+button {
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px;
+    border: none;
+    background-color: var(--primary-color);
+    color: var(--bs-light);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--primary-color-highlight);
+}
+
+textarea {
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+input:focus-within {
+    border: 1px solid var(--primary-color);
+
+
+}
+
+textarea:focus-within {
+    border: 1px solid var(--primary-color);
+
+}
+
+/* Contact Section */
+
+.contact {
+    background-color: var(--bs-light);
+    padding: 2rem 0;
+    text-align: center;
+}
+
+#First-Name, #Last-Name, #Email, #Message {
+    width: 50%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px;
+    border: 1px solid #0b8088;
+}
+
+form.active {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-50%) scale(1);
+}
+
