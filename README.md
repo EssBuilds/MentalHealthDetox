@@ -141,13 +141,12 @@ Thank you for considering the **Wellness Detox Retreat in the Lake District** fo
 
 ---
 
-###Credits
-Youtube - code that inspired me
+Credit to Youtube - for code that inspired me.
 ---
-Pexels - images and video
+Credit to Pexels - for images and video.
 ---
-Copilot - debugging
+Credit to Copilot - for debugging.
 ---
-chatgpt - help with writing
+Credit to chatgpt - for help with writing.
 ---
-chatgpt
+
