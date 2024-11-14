@@ -138,3 +138,10 @@ Thank you for considering the **Wellness Detox Retreat in the Lake District** fo
 ---
 
 ### [Book Your Retreat Today!](#)
+
+##Credits
+Youtube - code that inspired me
+Pexels - images and video
+Copilot - debugging
+chatgpt - help with writing
+chatgpt
